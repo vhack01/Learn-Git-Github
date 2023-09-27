@@ -2,5 +2,5 @@
 using namespace std;
 int main()
 {
-    cout << "Multiply :: Hello Github" << endl;
+    cout << "Multiply :: the number will get multiplied" << endl;
 }
